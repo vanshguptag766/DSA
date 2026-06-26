@@ -45,4 +45,12 @@
 | [0199-binary-tree-right-side-view](https://github.com/vanshguptag766/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

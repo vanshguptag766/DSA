@@ -48,9 +48,14 @@
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->

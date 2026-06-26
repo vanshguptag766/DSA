@@ -48,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vanshguptag766/DSA/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -57,5 +58,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vanshguptag766/DSA/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/vanshguptag766/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->

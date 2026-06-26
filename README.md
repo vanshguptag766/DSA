@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vanshguptag766/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vanshguptag766/DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -59,9 +60,11 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vanshguptag766/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vanshguptag766/DSA/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vanshguptag766/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vanshguptag766/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

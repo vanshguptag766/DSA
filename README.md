@@ -69,6 +69,7 @@
 | [0045-jump-game-ii](https://github.com/vanshguptag766/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vanshguptag766/DSA/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/vanshguptag766/DSA/tree/master/0120-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/vanshguptag766/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
 ## Greedy
 |  |
@@ -89,6 +90,7 @@
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/vanshguptag766/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshguptag766/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |

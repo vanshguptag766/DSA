@@ -56,6 +56,7 @@
 | [0120-triangle](https://github.com/vanshguptag766/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/vanshguptag766/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vanshguptag766/DSA/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshguptag766/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2895-minimum-processing-time](https://github.com/vanshguptag766/DSA/tree/master/2895-minimum-processing-time) |
 ## Two Pointers

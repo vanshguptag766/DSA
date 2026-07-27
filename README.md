@@ -73,9 +73,22 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshguptag766/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshguptag766/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/vanshguptag766/DSA/tree/master/1331-rank-transform-of-an-array) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshguptag766/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshguptag766/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vanshguptag766/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

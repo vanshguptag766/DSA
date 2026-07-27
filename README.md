@@ -58,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/vanshguptag766/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vanshguptag766/DSA/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshguptag766/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2653-sliding-subarray-beauty](https://github.com/vanshguptag766/DSA/tree/master/2653-sliding-subarray-beauty) |
 | [2895-minimum-processing-time](https://github.com/vanshguptag766/DSA/tree/master/2895-minimum-processing-time) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshguptag766/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshguptag766/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2653-sliding-subarray-beauty](https://github.com/vanshguptag766/DSA/tree/master/2653-sliding-subarray-beauty) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vanshguptag766/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2653-sliding-subarray-beauty](https://github.com/vanshguptag766/DSA/tree/master/2653-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->

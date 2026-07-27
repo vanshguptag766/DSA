@@ -12,6 +12,7 @@
 | [0112-path-sum](https://github.com/vanshguptag766/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshguptag766/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshguptag766/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -34,6 +35,7 @@
 | [0112-path-sum](https://github.com/vanshguptag766/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshguptag766/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshguptag766/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -44,6 +46,7 @@
 | [0112-path-sum](https://github.com/vanshguptag766/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshguptag766/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshguptag766/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshguptag766/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -94,4 +97,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vanshguptag766/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vanshguptag766/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
